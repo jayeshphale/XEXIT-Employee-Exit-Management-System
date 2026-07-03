@@ -1,0 +1,6 @@
+{
+  "name": "XEXIT",
+  "description": "Employee Exit Management System for handling resignations, validations, and exit interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

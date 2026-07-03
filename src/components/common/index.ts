@@ -1,0 +1,2 @@
+// Common components namespace
+export {};
